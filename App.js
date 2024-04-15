@@ -8,11 +8,11 @@ import BT5 from './src/BT5';
 import BT6 from './src/BT6';
 import BT7 from './src/BT7';
 import BT8 from './src/BT8';
-
+import Calculator from './src/Calculator';
 export default function App() {
   return (
     
-    <BT8/>
+    <Calculator/>
   );
 }
 
